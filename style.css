@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+nav{
+    margin: 10px 10px;
+    font-size: 1rem;
+   
+}
+
+.head1{
+    float: left;
+    word-spacing: 25px;
+    
+}
+.head2{
+    float: right;
+    word-spacing: 25px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.btn{
+    width: 100%;
+    background-color: rgb(93, 102, 223);
+    color: white;
+    font-size: 0.8rem;
+    padding: 0.6rem;
+    border-radius: 5px;
+}
+.logo{
+    margin: 20% 35% 1% 35%;
+}
+form{
+    margin: 3% 10%;
+    display: inline-block;
+    text-align: center;
+    width: 80%;
+}
+.button{
+    padding: 0;
+    background-color: white;
+    color: white;
+    border-radius: 25px;
+    
+}
+.orta{
+    display: flex;
+    width: 90%;
+    border: 0.2px solid grey;
+    padding: 0.8rem;
+    border-radius: 25px;
+    margin: auto;
+}
+ 
+.orta img{width: 16px;
+    height: 16px;
+    margin-top: 5px;
+    
+}
+.orta input{
+    width: 100%;
+    line-height: 2;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.btn2{
+    width: 100%;
+    text-align: center;
+    
+    margin-top: 2%;
+    
+}
+.orta:hover{
+    box-shadow: 20px 20px 50px grey;
+}
+.search{
+    padding: 0.5rem;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-right: 15px;
+}
+.search:hover{background-color: white;
+    height: 50px;
+    width: 150px;
+    box-shadow: 20px 20px 50px grey;
+    
+}
+.lucky{
+    padding: 0.5rem;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.lucky:hover{background-color: white;
+    height: 50px;
+    width: 150px;
+    box-shadow: 20px 20px 50px grey;
+    
+}
+.text{
+    width: 100%;
+    display: inline-block;
+}
+ p{
+    text-align: center;
+    margin:2% 0 10% 0;  
+ }
+ .foot1{
+    margin-top: 15%;
+    background-color: rgba(128, 126, 126, 0.3);
+    padding: 5px;
+    font-size: 1rem;
+    color: rgb(120, 120, 120);
+ }
+ .alt{
+    background-color: rgba(128, 126, 126, 0.3);
+    padding: 18px 0;
+    font-size: 0.8rem;
+    margin-top:0px;
+    margin-bottom: 0px;
+  
+    
+ }
+ .foot2{
+    float: left;
+ }
+ .foot3{
+    float: right;
+ }
+ .alt a{text-decoration: none;
+    margin-left: 8px;
+    color: rgb(120, 120, 120);
+
+   
+
+ }
+ 
